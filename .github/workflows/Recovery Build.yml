@@ -1,6 +1,5 @@
 name: Recovery Build
 
-git init --bare
 on:
   workflow_dispatch:
     inputs:
